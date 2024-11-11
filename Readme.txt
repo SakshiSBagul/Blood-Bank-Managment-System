@@ -4,7 +4,7 @@ How to run the Blood Bank & Donor Management System Using PHP and MySQL
 
 2. Extract the file and copy bbdms folder
 
-3.Paste inside root directory(for xampp xampp/htdocs, for wamp wamp/www, for lamp var/www/HTML)
+3.Paste inside root directory( xampp xampp/htdocs)
 
 4.Open PHPMyAdmin (http://localhost/phpmyadmin)
 
@@ -14,11 +14,3 @@ How to run the Blood Bank & Donor Management System Using PHP and MySQL
 
 7. Run the script http://localhost/bbdms
 
-**************************Admin Credential***********************
-Username: admin
-Password: Test@123
-
-**************************Donor Credential**********************
-Username: amitk@gmail.com
-Password: Test@123
-Or Register a new user.
